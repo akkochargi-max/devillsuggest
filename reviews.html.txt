@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Product Reviews | Devil Suggest</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Devil Suggest</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="reviews.html">Reviews</a>
+<a href="guides.html">Buying Guides</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+<section class="container">
+<h2>Latest Product Reviews</h2>
+<div class="card">Best Smartphone Under ₹20,000 – <a href="#">Check Price</a></div>
+<div class="card">Best Wireless Earbuds – <a href="#">Check Price</a></div>
+<div class="card">Best Laptop for Students – <a href="#">Check Price</a></div>
+</section>
+<footer><p>© 2026 Devil Suggest</p></footer>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Buying Guides | Devil Suggest</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Devil Suggest</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="reviews.html">Reviews</a>
+<a href="guides.html">Buying Guides</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+</header>
+<section class="container">
+<h2>Buying Guides</h2>
+<ul>
+<li>How to Choose a Smartphone</li>
+<li>Laptop Buying Guide for Students</li>
+<li>Smartwatch Buying Guide</li>
+</ul>
+</section>
+<footer><p>© 2026 Devil Suggest</p></footer>
+</body>
+</html>
